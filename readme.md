@@ -1,6 +1,6 @@
 ## Datasets:
 
-### Amazon
+### Dataset 1
 
 - training
   - cluster: contains all the category info (2, 4, 8, 16)
@@ -11,7 +11,7 @@
     - tsa-votes.txt: two stage voting results. 
     - tsa-categories.txt: contains all category infos
 
-### Walmart
+### Dataset 2
 
 - npy files
 
